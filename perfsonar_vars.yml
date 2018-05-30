@@ -1,0 +1,7 @@
+---
+perfsonar_nameservers:
+  - 8.8.8.8
+  - 8.8.4.4
+
+perfsonar_toolkit_configure_sysctl: true
+perfsonar_toolkit_security: true
